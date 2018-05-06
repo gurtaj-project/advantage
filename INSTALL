@@ -1,0 +1,9 @@
+Building Advantage
+
+See doc/readme-qt.rst for instructions on building Advantage-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Advantage.
+
+See doc/build-*.txt for instructions on building advantaged,
+the intended-for-services, no-graphical-interface, reference
+implementation of Advantage.
